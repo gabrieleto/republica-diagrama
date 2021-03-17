@@ -1,14 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T10:51:26.952Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.54" etag="KGLcAwuAskfjGKK0bb63" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-17T00:28:20.589Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.54" etag="OhAktgmzlhRqwC_30lRn" version="14.4.8" type="github">
   <diagram id="WuhbAdQ04faLlRi-Ktg_" name="Page-1">
     <mxGraphModel dx="1422" dy="294" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gcNGVXdcTe5OuNDapNP1-1" value="O NASCIMENTO DA REPÚBLICA NO BRASIL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gcNGVXdcTe5OuNDapNP1-1" value="O NASCIMENTO DA REPÚBLICA NO BRASIL" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gcNGVXdcTe5OuNDapNP1-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="660" width="120" height="60" as="geometry" />
+        <mxCell id="gcNGVXdcTe5OuNDapNP1-6" value="República da Espada (1889 - 1894)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rQ_frdkWJZuWuJunMNN2-3" value="A república surgiu como o resultado de uma aliança no fim do século XIX" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rQ_frdkWJZuWuJunMNN2-4" value="Começaram a criticar a igreja com base nas ideias iluministas" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="600" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rQ_frdkWJZuWuJunMNN2-5" value="República&amp;nbsp;Oligárquica (1894 - 1898)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="170" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rQ_frdkWJZuWuJunMNN2-6" value="" style="endArrow=none;html=1;fontSize=12;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="rQ_frdkWJZuWuJunMNN2-3" target="gcNGVXdcTe5OuNDapNP1-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="720" as="sourcePoint" />
+            <mxPoint x="530" y="670" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rQ_frdkWJZuWuJunMNN2-7" value="" style="endArrow=none;html=1;fontSize=12;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="gcNGVXdcTe5OuNDapNP1-6" target="gcNGVXdcTe5OuNDapNP1-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="720" as="sourcePoint" />
+            <mxPoint x="530" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rQ_frdkWJZuWuJunMNN2-8" value="" style="endArrow=none;html=1;fontSize=12;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rQ_frdkWJZuWuJunMNN2-5" target="gcNGVXdcTe5OuNDapNP1-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="790" as="sourcePoint" />
+            <mxPoint x="420" y="740" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rQ_frdkWJZuWuJunMNN2-9" value="" style="endArrow=none;html=1;fontSize=12;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rQ_frdkWJZuWuJunMNN2-4" target="rQ_frdkWJZuWuJunMNN2-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="720" as="sourcePoint" />
+            <mxPoint x="540" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rQ_frdkWJZuWuJunMNN2-10" value="Baixo salário desincentivou os filhos dos&amp;nbsp; militares&amp;nbsp; a seguir essa carreira" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="400" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rQ_frdkWJZuWuJunMNN2-11" value="" style="endArrow=none;html=1;fontSize=12;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rQ_frdkWJZuWuJunMNN2-10" target="rQ_frdkWJZuWuJunMNN2-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="580" as="sourcePoint" />
+            <mxPoint x="530" y="530" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
